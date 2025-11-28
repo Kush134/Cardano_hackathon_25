@@ -1,5 +1,4 @@
 # Arduino ↔ Cardano ↔ Masumi: AI‑Agent Orchestrated Machine‑to‑Machine Demonstration
-## IndiaCodex Hackathon 2025 Submission
 
 🚀 **A revolutionary hardware-to-blockchain integration where AI agents mediate machine-to-machine interactions on the Cardano blockchain**
 
@@ -22,49 +21,7 @@ This project demonstrates **AI-agent orchestrated machine-to-machine interaction
 - AI‑agent mediated interaction becomes an on‑chain Cardano transaction
 - Masumi handles orchestration; Cardano handles settlement
 
-## 🎥 **Demo Videos**
 
-### ⭐ **Main Hackathon Demo**
-**Complete End-to-End System Demonstration**
-
-<div align="center">
-  <a href="https://youtu.be/QNzv-epkJTM">
-    <img src="https://img.youtube.com/vi/QNzv-epkJTM/maxresdefault.jpg" alt="Main Hackathon Demo" style="width:100%; max-width:800px;">
-  </a>
-  <p><em>Click to watch: End‑to‑end Arduino → AI → Masumi → Cardano → Arduino flow</em></p>
-</div>
-
-**Watch on YouTube:** https://youtu.be/QNzv-epkJTM
-
----
-
-### 🏆 **Hackathon Day Demo**
-**Live Arduino-Cardano Integration System**
-
-<div align="center">
-  <a href="https://youtu.be/UafLTltfD5o">
-    <img src="https://img.youtube.com/vi/UafLTltfD5o/maxresdefault.jpg" alt="Hackathon Demo" style="width:100%; max-width:800px;">
-  </a>
-  <p><em>Click to watch: Arduino button press → Real Cardano blockchain transaction → LCD display → Live dashboard monitoring</em></p>
-</div>
-
-**Watch on YouTube:** https://youtu.be/UafLTltfD5o
-
----
-
-### 🚀 **Future Vision Demo**
-**Real-World Application Showcase**
-
-<div align="center">
-  <a href="https://youtu.be/tLkZvUDTP0s">
-    <img src="https://img.youtube.com/vi/tLkZvUDTP0s/maxresdefault.jpg" alt="Future Vision Demo" style="width:100%; max-width:800px;">
-  </a>
-  <p><em>Click to watch: A fun representation showcasing how this technology will be used in real-world scenarios</em></p>
-</div>
-
-**Watch on YouTube:** https://youtu.be/tLkZvUDTP0s
-
----
 
 ## 📸 **Project Screenshots**
 
@@ -882,13 +839,6 @@ curl -X POST http://localhost:7002/analyze -H "Content-Type: application/json" -
 
 ---
 
-## 📞 **Contact & Support**
-
-For questions about this IndiaCodex Hackathon 2025 submission:
-- **GitHub**: [DhanushKenkiri](https://github.com/DhanushKenkiri)
-- **Repository**: https://github.com/DhanushKenkiri/IndiaCodexHackathon--25-Submission
-- **Documentation**: See `docs/` folder for detailed guides
-
 ---
 
 ## 📚 **Additional Documentation**
@@ -904,45 +854,5 @@ For questions about this IndiaCodex Hackathon 2025 submission:
 
 ---
 
-## 🏅 **Hackathon Submission Summary**
 
-This Arduino-Cardano integration system represents a breakthrough in **AI-orchestrated machine-to-machine interactions on blockchain**. By enabling AI agents to interpret intent from physical hardware, enforce policies, and execute blockchain transactions autonomously, we've created a tangible bridge between the physical world, artificial intelligence, and decentralized finance.
 
-### **Key Achievements**
-- ✅ Fully functional AI-orchestrated hardware-to-blockchain integration
-- ✅ Real Cardano preprod testnet transactions with proper wallet management
-- ✅ Complete microservices architecture with Docker containerization
-- ✅ AI-powered decision making with Gemini/Sokosumi agents
-- ✅ Real-time monitoring with WebSocket communication
-- ✅ Production-ready code with proper security and error handling
-- ✅ Edge-based credential management on Arduino hardware (testnet demo)
-
-### **Innovation Impact**
-This project demonstrates the future of **autonomous IoT payments** where:
-- Machines can request and execute financial transactions
-- AI agents mediate and approve based on context and policy
-- Blockchain provides transparent, immutable settlement
-- Physical feedback (LCD, LEDs) makes blockchain tangible
-
-**Demo the future of AI-orchestrated blockchain interaction - where pressing a button triggers an intelligent, autonomous payment flow!** 🚀
-
----
-
-## 🙏 **Acknowledgments**
-
-We sincerely thank the **IndiaCodex Hackathon 2025 organizers and judges** for this incredible opportunity to showcase innovation at the intersection of blockchain technology, artificial intelligence, and IoT. 
-
-Special appreciation to:
-- **Cardano Foundation** for excellent documentation and testnet infrastructure
-- **Arduino Community** for robust hardware libraries and support
-- **Google Gemini Team** for powerful AI capabilities
-- **Sokosumi Platform** for advanced AI agent orchestration
-- **Anthropic** for Claude and the MCP framework
-- **Blockfrost** for reliable Cardano API services
-- **Open-source contributors** whose libraries and tools made this project possible
-
-This hackathon has been an inspiring journey in pushing the boundaries of what's possible when cutting-edge AI, blockchain, and IoT technologies converge to solve real-world challenges.
-
----
-
-**For license information, see the LICENSE file in the repository root.**
