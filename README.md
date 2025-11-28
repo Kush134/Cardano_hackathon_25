@@ -42,16 +42,6 @@ This project demonstrates **AI-agent orchestrated machine-to-machine interaction
 </div>
 
 ---
-
-### **Service Architecture & Logs**
-
-<div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1J1jd_5VxPELdMUzlugkrpTOIeYaZmpGr" alt="Service Logs" style="width:100%; max-width:900px; border: 2px solid #ddd; border-radius: 8px; margin: 10px 0;">
-  <p><em>Microservices architecture with Arduino Bridge, Masumi Payment, and Cardano Integration services</em></p>
-</div>
-
----
-
 ### **Circuit Diagram - Arduino #1 (Transaction Display)**
 
 <div align="center">
