@@ -22,49 +22,6 @@ This project demonstrates **AI-agent orchestrated machine-to-machine interaction
 - AI‑agent mediated interaction becomes an on‑chain Cardano transaction
 - Masumi handles orchestration; Cardano handles settlement
 
-## 🎥 **Demo Videos**
-
-### ⭐ **Main Hackathon Demo**
-**Complete End-to-End System Demonstration**
-
-<div align="center">
-  <a href="https://youtu.be/QNzv-epkJTM">
-    <img src="https://img.youtube.com/vi/QNzv-epkJTM/maxresdefault.jpg" alt="Main Hackathon Demo" style="width:100%; max-width:800px;">
-  </a>
-  <p><em>Click to watch: End‑to‑end Arduino → AI → Masumi → Cardano → Arduino flow</em></p>
-</div>
-
-**Watch on YouTube:** https://youtu.be/QNzv-epkJTM
-
----
-
-### 🏆 **Hackathon Day Demo**
-**Live Arduino-Cardano Integration System**
-
-<div align="center">
-  <a href="https://youtu.be/UafLTltfD5o">
-    <img src="https://img.youtube.com/vi/UafLTltfD5o/maxresdefault.jpg" alt="Hackathon Demo" style="width:100%; max-width:800px;">
-  </a>
-  <p><em>Click to watch: Arduino button press → Real Cardano blockchain transaction → LCD display → Live dashboard monitoring</em></p>
-</div>
-
-**Watch on YouTube:** https://youtu.be/UafLTltfD5o
-
----
-
-### 🚀 **Future Vision Demo**
-**Real-World Application Showcase**
-
-<div align="center">
-  <a href="https://youtu.be/tLkZvUDTP0s">
-    <img src="https://img.youtube.com/vi/tLkZvUDTP0s/maxresdefault.jpg" alt="Future Vision Demo" style="width:100%; max-width:800px;">
-  </a>
-  <p><em>Click to watch: A fun representation showcasing how this technology will be used in real-world scenarios</em></p>
-</div>
-
-**Watch on YouTube:** https://youtu.be/tLkZvUDTP0s
-
----
 
 ## 📸 **Project Screenshots**
 
