@@ -277,8 +277,8 @@ I2C Address: 0x27 (default, adjust in code if different)
 #### **1. Clone and Setup**
 ```powershell
 # Clone the repository
-git clone https://github.com/DhanushKenkiri/IndiaCodexHackathon--25-Submission.git
-cd IndiaCodexHackathon--25-Submission
+git clone https://github.com/Kush134/Cardano_hackathon_25
+cd Cardano_hackathon_25
 ```
 
 #### **2. Install Service Dependencies**
